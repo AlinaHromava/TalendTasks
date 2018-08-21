@@ -9,5 +9,5 @@ grant connect, resource to sa_src;
 
 create table Filenames
 (
-filename varchar2(150) 
+coming_filename varchar2(150) 
 );
